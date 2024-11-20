@@ -10,7 +10,7 @@ kob:
   # Soll der Test headless, also ohne visuelle Überwachung im Browser, durchgeführt werden?
   useBrowser: true
   # Die KVNR, mit welcher die KOB durchgeführt werden soll.
-  kvnr: "X110609498"
+  kvnr: "X110659822"
   # Welcher Typ von EML soll heruntergeladen werden ('XHTML', 'PDF', 'FHIR')
   emltype: "PDF"
   # Mit welchem Aktensystem ist die KOB durchzuführen? ('IBM', 'RISE')
